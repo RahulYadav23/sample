@@ -1,7 +1,7 @@
 package com.Trie;
 
 public class Trie {
-    class Node
+    class Node      //rahul
     {
         boolean flag;
         Node[] table = new Node[26];
